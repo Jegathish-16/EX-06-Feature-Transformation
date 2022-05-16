@@ -99,7 +99,6 @@ df
 ![output](./titanic_dataset/o3.png)
 ![output](./titanic_dataset/o4.png)
 ## FUNCTION TRANSFORMATION:
-![output](./titanic_dataset/o5.png)
 ![output](./titanic_dataset/o6.png)
 ![output](./titanic_dataset/o7.png)
 ## POWER TRANSFORMATION:
